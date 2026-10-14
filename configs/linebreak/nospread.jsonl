@@ -1,0 +1,1 @@
+{"config_id": "geom_nospread_ar1.2", "method": "geometry", "target": "helix", "seeds": [1, 2, 3], "alpha_r": 1.2, "spread_tau": 0.5, "spread_weight": 0.0, "ce_weight": 0.0}
